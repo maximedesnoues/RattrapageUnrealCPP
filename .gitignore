@@ -1,0 +1,15 @@
+# Ignore the intermediate and saved directories
+/Binaries
+/Intermediate
+/Saved
+/DerivedDataCache
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.sln.docstates
+
+# Ignore build directories
+Build/
